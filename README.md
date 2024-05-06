@@ -1,2 +1,1 @@
-# Helmet Detection System
- Helmet detection using YOLOV8 model 
+# Helmet-Detection-System
